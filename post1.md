@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Hello World!
+layout: post
+title: This is a post
+date: "2023-03-17"
+author: 8Z
 ---
 
 I wonder how this looks in Garry's Mod?
