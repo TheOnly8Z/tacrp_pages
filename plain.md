@@ -1,5 +1,8 @@
 ---
-layout: tacrp
+layout: plain
+title: My Title
+date: "2023-03-17"
+author: 8Z
 ---
 
 This should be a plain page.

@@ -3,23 +3,26 @@
 <style>
   @font-face {
       font-family: "Myriad Pro";
-      src: url("asset://garrysmod/resource/fonts/myriad pro regular.ttf");
-      src: url("../../tacrp_pages/fonts/myriad pro regular.ttf");
+      src: url("asset://garrysmod/resource/fonts/myriad pro regular.ttf") format('truetype'),
+      url("fonts/myriad pro regular.ttf") format('truetype'),
+      url("../../tacrp_pages/fonts/myriad pro regular.ttf") format('truetype');
   }
 </style>
 
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
   <header>
     <h1>{{ page.title | escape }}</h1>
     <p class="text-muted">
       <time datetime="{{ page.date | date_to_xmlschema }}">
-        {%- assign date_format = "%b %-d, %Y" -%}
+        {%- assign date_format = "%Y-%m-%d" -%}
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
         • {{ page.author }}
       {%- endif -%}
     </p>
+    <hr class="solid">
   </header>
   <body style="font-family:'Myriad Pro';color:white;font-size:125%;">
     {{ content }}

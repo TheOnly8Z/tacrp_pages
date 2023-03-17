@@ -1,9 +1,18 @@
 ---
 layout: default
 ---
+<style>
+  @font-face {
+      font-family: "Myriad Pro";
+      src: url("asset://garrysmod/resource/fonts/myriad pro regular.ttf") format('truetype'),
+      url("fonts/myriad pro regular.ttf") format('truetype'),
+      url("../../tacrp_pages/fonts/myriad pro regular.ttf") format('truetype');
+  }
+</style>
+
 <article>
 
-  <header>
+  <header style="font-family:'Myriad Pro';color:white;font-size:125%;">
     <h1>{{ page.title | escape }}</h1>
     <p class="text-muted">
       <time datetime="{{ page.date | date_to_xmlschema }}">
@@ -16,7 +25,7 @@ layout: default
     </p>
   </header>
 
-  <section>
+  <section style="font-family:'Myriad Pro';color:white;font-size:125%;">
     {{ content }}
   </section>
 
