@@ -1,3 +1,7 @@
+---
+layout: blank
+---
+
 This should be a plain page.
 
 **Here's some bold text!**
