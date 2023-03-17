@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: tacrp
 ---
 
 This should be a plain page.
