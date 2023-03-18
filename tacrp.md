@@ -11,7 +11,7 @@ Breathe new life into the guns of an ill-fated shooter. Tactical RP is a remix a
   {% for post in site.posts %}
     {%- if post.category == "TacRP" -%}
     <li>
-      <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
     {% endif %}
   {% endfor %}
