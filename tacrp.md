@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tactical RP
-permalink: /tacrp/
+permalink: /tactical_realist/tacrp/
 ---
 
 Breathe new life into the guns of an ill-fated shooter. Tactical RP is a remix and expansion of Tactical Intervention weapons that aims to make it more customizable, more fun, and more immersive.
