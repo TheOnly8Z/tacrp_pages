@@ -5,9 +5,16 @@ author: 8Z
 date: "2023-03-17"
 ---
 
-Greetings, fellow Tactical Realism Enthusiasts!
+Greetings, fellow *Tactical Realism Enthusiasts*!
 
-A sudden wave of enthuasism washed over me recently, and a lot of updates has happened in the past few weeks. If you haven't been keeping track, here's a quick rundown of the new features introduced to Tactical RP.
+A lot of updates has happened to TacRP in the past few weeks. If you haven't been keeping track, here's a quick rundown of the new features introduced to Tactical RP.
+
+---
+
+## Newsletter
+The very same menu you have open (If you're in-game)! Most posts will be fetched from the Internet, so you won't need to update the addon every time just to see a new article.
+
+![newsletter](/assets/images/newsletter.png)
 
 ## Reworked Gunplay
 To make the weapons fun to use in Sandbox, a new **Arcade Mode** has been added that keeps guns at the same power level (no tiered balance) and with high mobility. We also playtested all of them in multiplayer and made sure they're nice and proper in terms of balance.
