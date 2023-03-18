@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tactical RP
+title: Main Page
 ---
 
 Lorem Ipsum
