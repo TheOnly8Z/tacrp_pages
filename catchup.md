@@ -1,0 +1,125 @@
+---
+layout: post
+title: Catching Up
+author: 8Z
+date: "2023-03-17"
+---
+
+Greetings, fellow Tactical Realism Enthusiasts!
+
+A sudden wave of enthuasism washed over me recently, and a lot of updates has happened in the past few weeks. If you haven't been keeping track, here's a quick rundown of the new features introduced to Tactical RP.
+
+## Reworked Gunplay
+To make the weapons fun to use in Sandbox, a new **Arcade Mode** has been added that keeps guns at the same power level (no tiered balance) and with high mobility. We also playtested all of them in multiplayer and made sure they're nice and proper in terms of balance.
+
+You'll always have a viable weapon in your hands - that is the *Tactical Realism Promise!* (Warranty void if you use surplus attachments.)
+
+![arcade](/assets/images/arcade.png)
+
+Also, crosshairs are available now. It took years, but we finally did it.
+
+## Peeking
+
+Let's be honest, ironsights are quite hard to use because of TacInt's exaggerated animations. But that's no excuse to give up on aiming! Now, pressing +menu_context (C) allows you to peek without using sights, keeping most of your scoped bonuses while giving you full field of view.
+
+![peek](/assets/images/peek.jpg)
+
+## Improved Quickthrow
+Having to bind two keys and cycle through all the grenades one by one is annoying and not very tactical. With the new radial menu (+grenade2), you can select and throw them with just a flick and click of your mouse! They also come with a nice description so you know what you're dishing out.
+
+![quickthrow](/assets/images/quickthrow.jpg)
+
+## Improved Blindfire
+You can now blindfire to the right, so nowhere is safe from your tactical wrath! A new radial menu is also there to help you quickly choose your angle of attack.
+
+![blindfire_1](/assets/images/blindfire_1.jpg)
+
+## Shoot Yourself
+Also included in the new blindfire menu is an option to put your gun towards... yourself. The result is about what you would expect.
+
+![suicide](/assets/images/suicide.jpg)
+
+With this, you can also play Russian Roulette with the MR96!
+
+![roulette](/assets/images/roulette.png)
+
+## Stat Visualization
+
+Numbers are for nerds 🤓. The rating system allows you to understand your weapon's strengths and weaknesses at a glance, and shows you the impact made by your customization.
+
+![rating](/assets/images/rating.png)
+
+Also, you can now mouse over attachments, stats and ratings to see what they actually do. No more mysteries!
+
+![mouseover](/assets/images/mouseover.png)
+
+## Attachments
+So, so many more attachments, and icons for them all too.
+- 2 new optics, the ELCAN and Short Dot, with unique reticles
+- 3 new triggers
+- 2 new perks
+- 3 new accessories
+- 2 new sniper ammo types
+- 2 new RPG ammo types, 1 new M320 ammo type
+
+![atticons](/assets/images/atticons.png)
+
+Some tactical attachments got a bit more love:
+- Corner-Cam can be used for selfies when you're pointing the gun at yourself
+- Radar emits beeps, audible to other players
+- Rangefinder shows bullet drop whem aiming
+- Spread Gauge shows spread while aiming
+
+Plus, we now have ammo types for every size of rat.
+
+![ratshot_1](/assets/images/ratshot_1.png)
+![ratshot_2](/assets/images/ratshot_2.png)
+![ratshot_3](/assets/images/ratshot_3.png)
+
+## Smart Fella, Fart Smella
+Gas grenades have been reworked. They're no longer lethal (against players), but will deal damage over time and make your TacRP weapons very unstable. A perfect way to disrupt enemies!
+
+![gas](/assets/images/gas.jpg)
+
+With the new Grenadier perk, you can throw rocks. They have infinite ammo, but obviously only does damage if you hit something.
+
+![rock](/assets/images/rock.png)
+
+There's also other fun grenade changes.
+
+- All grenades have reduced fuse timer - they're quicknades, not slownades.
+- Flashbangs will slow affected targets. You can turn on "Dark Mode" to make flashbangs turn the screen black instead of white, and deafen instead of making the loud ringing sound.
+- Concussion grenades have a stun effect.
+- Breach Charges explode on the other side of a breached door. If you hold a detonator while throwing, they become remote detonation like the C4.
+
+## More Stable, More Configurable
+
+Okay, there's just too many new options and fixes to include here, but I will pick just a few.
+- Infinite ammo and infinite grenades
+- Fixed shotgun spread (Uncletopia moment)
+- Holster animations
+- Fixed NPC weapon behavior
+- Fixed Medkit
+
+---
+
+# Well, what's next?
+
+We're not quite done with Tactical RP yet. New features are constantly on the horizon - improved interface, new mechanics, new attachments.
+
+**And yes, new weapons too, in the form of an expansion pack!**
+
+With help from the talented modders at RMC, a new addon for TacRP is on its way. Currently, **12** weapons are already fully or partially implemented, and even more are planned. 
+
+Expect to see the finest models and textures Gamebanana has to offer combined with the stylish animations from Tactical Intervention. Of course, quite a few familiar faces from M9K will make an appearance, too...
+
+![preview](/assets/images/preview1.jpg)
+![preview](/assets/images/preview2.jpg)
+![preview](/assets/images/preview3.jpg)
+
+Is it fair to say us tactical realists are eating good? I certainly think so. It's my hope that with the expansion's release, more players get to experience Tactical Intervention's weapons in their best light, and more players get to enjoy a set of well-rounded, well-balanced weapons in their spawnmenu.
+
+In the meantime: *Stay tuned, and stay tactical!*
+
+Yours,\
+**\- 8Z, the gmod hyperrealist**
