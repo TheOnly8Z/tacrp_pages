@@ -17,8 +17,8 @@ title: The Tactical Realist
 email: 8z@theonly8z.com
 description: >- # this means to ignore newlines until "baseurl:"
   Garry's Mod Realism
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tactical_realist" # the subpath of your site, e.g. /blog
+url: "https://theonly8z.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
