@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is a post
+title: This is a post 1
 date: "2023-03-17"
 author: 8Z
 ---
