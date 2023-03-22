@@ -42,6 +42,8 @@ The Rangefinder and Spread Gauge use the point of aim after sway. Rangefinder al
 - **Added:** Clientside Toggle Aim ConVar, disabled by default.
 - **Added:** Clientside ConVar to disable radar sounds on the user.
 - **Added:** Radar triangle icons for targets above/below the user (threshold of 128HU).
+- **Added:** Rangefinder cross to indicate damage falloff and center of aim.
+- **Changed:** Rangefinder and Spread Gauge draws helpers from point of aim after sway.
 - **Changed:** Shotgun reloading can be interrupted immediately. If no round was loaded, the gun readies quicker.
 - **Changed:** Radar beeps (for yourself) is quieter, but gets louder with more targets.
 - **Changed:** Melee and Quickthrow can interrupt reloads.
