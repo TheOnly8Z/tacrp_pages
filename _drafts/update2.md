@@ -26,8 +26,10 @@ Shotguns are also more responsive to reload cancelling now. You can interrupt th
 
 <video muted src="{{ '/assets/videos/reloadcancel2.mp4' | relative_url }}" controls="controls" style="max-width: 100%;"></video>
 
-### Most Tactical
-A few touches to the tactical attachments. The Radar's beeping is made quieter when nothing is around. You can disable it for yourself if you still find it too grating - but this doesn't affect other players hearing your radar (and you hearing theirs)!
+### Much Tactical Very Realism
+A few touches to the tactical attachments.
+
+The Radar's beeping is made quieter when nothing is around. You can disable it for yourself if you still find it too grating - but this doesn't affect other players hearing your radar (and you hearing theirs)!
 
 Also, you can now tell if the target is above or below you, as they will show up as a pointed triangle.
 
@@ -50,6 +52,7 @@ The Rangefinder and Spread Gauge use the point of aim after sway. Rangefinder al
 - **Changed:** Melee will cancel aiming briefly and exit blindfire.
 - **Fixed:** Holding USE during a runaway burst causing non-stop melee instead of shooting.
 - **Fixed:** Shotguns reloading cannot load with 0 ammo, even if infinite ammo is on.
+- **Fixed:** Holstered weapons not showing up in Singleplayer.
 - **Rebalance:** Melee Damage increased from 20 to 25; delay between swings increased from 0.6s to 0.7s.
 - **Rebalance:** Melee Damage w/ Smackdown increased to 40 from 35.
 - **Rebalance:** Non-Arcade melee slowdown reduced from 50% to 15%, duration from 1.5s to 1s.
