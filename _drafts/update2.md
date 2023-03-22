@@ -20,18 +20,22 @@ Give your index finger a rest - you can now toggle aiming instead of having to h
 ### Out of Ammo, But Not Out Of Options
 Getting caught with your pants down is not very tactical. Now, you can break out of a reload instantly by melee bashing or quickthrowing.
 
-<video muted src="{{ '//assets/videos/reloadcancel.mp4' | relative_url }}" controls="controls" style="max-width: 100%;"></video>
+<video muted src="{{ '/assets/videos/reloadcancel.mp4' | relative_url }}" controls="controls" style="max-width: 100%;"></video>
 
 Shotguns are also more responsive to reload cancelling now. You can interrupt the reload at any point, and if you interrupted it before a round was loaded, the finish animation doesn't play and you can start firing faster.
 
-<video muted src="{{ '//assets/videos/reloadcancel2.mp4' | relative_url }}" controls="controls" style="max-width: 100%;"></video>
+<video muted src="{{ '/assets/videos/reloadcancel2.mp4' | relative_url }}" controls="controls" style="max-width: 100%;"></video>
 
-
-### Radar
-A few touches to the Radar. Its beeping is made quieter when nothing is around. You can disable it for yourself if you still find it too grating - but this doesn't affect other players hearing your radar (and you hearing theirs)!
+### Most Tactical
+A few touches to the tactical attachments. The Radar's beeping is made quieter when nothing is around. You can disable it for yourself if you still find it too grating - but this doesn't affect other players hearing your radar (and you hearing theirs)!
 
 Also, you can now tell if the target is above or below you, as they will show up as a pointed triangle.
+
 ![radar_triangle]({{ '/assets/images/radar_triangle.png' | relative_url }})
+
+The Rangefinder and Spread Gauge use the point of aim after sway. Rangefinder also has a cross indicating range now (it fades out at minimum damage), which is usable even with Physical Bullets off.
+
+![rangefinder]({{ '/assets/images/rangefinder.jpg' | relative_url }})
 
 ## Update Notes
 
